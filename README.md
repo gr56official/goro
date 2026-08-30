@@ -11,19 +11,23 @@ Official Telegram: [@gr56goro](https://t.me/gr56goro)
 
 ## Status
 
-**Pre-launch. There is no official GORO mainnet token yet.** Until the mint
-address is posted by [@gr56__](https://x.com/gr56__) and
-[@gr56goro](https://t.me/gr56goro), any token using this name or artwork is
-unaffiliated.
+Live on Solana via Pump.fun.
 
-## Launch rules
+Mint: [`G2Lf9xyWdzFH9hBeh3R5ttobNj7Qp3beVUJCtje8pump`](https://explorer.solana.com/address/G2Lf9xyWdzFH9hBeh3R5ttobNj7Qp3beVUJCtje8pump)
 
-- Solana launch through Pump.fun's standard bonding curve.
-- Mayhem Mode off: no bot-generated activity and no temporary supply doubling.
-- No presale, free creator allocation, airdrop reserve, hidden wallets, or
-  invented utility.
-- One creator wallet will be disclosed at launch. It may make an initial buy
-  on the same curve as everyone else, targeting no more than 5% of supply.
+Pump.fun: [pump.fun/coin/G2Lf9xyWdzFH9hBeh3R5ttobNj7Qp3beVUJCtje8pump](https://pump.fun/coin/G2Lf9xyWdzFH9hBeh3R5ttobNj7Qp3beVUJCtje8pump)
+
+Until this mint is posted by [@gr56__](https://x.com/gr56__) and
+[@gr56goro](https://t.me/gr56goro), any other token using this name or artwork
+is unaffiliated.
+
+## Launch facts
+
+- Solana, Pump.fun standard bonding curve. Mayhem off. Cash Back off.
+- No presale, free creator allocation, airdrop reserve, or invented utility.
+- Disclosed creator: [`9rv6GQTwV8LCeAoamVDCEseX9Tf3kYoU6BkyACpex565`](https://explorer.solana.com/address/9rv6GQTwV8LCeAoamVDCEseX9Tf3kYoU6BkyACpex565)
+- Launch transaction debit 0.513436 SOL; 0.50 SOL went into the curve; 17,416,939 GORO (1.74%) at launch.
+- Mint authority none. Freeze authority none. Supply 1,000,000,000.
 - Pump.fun creator fees are disclosed; they are not holder revenue or a
   promise of support for the price.
 - If the coin graduates, canonical liquidity migrates automatically to the
