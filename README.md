@@ -11,17 +11,17 @@ Official Telegram: [@gr56goro](https://t.me/gr56goro)
 
 ## Status
 
-Live on Solana via Pump.fun.
+Not being continued. The mint exists on Solana and cannot be removed from the
+chain, so the address stays here for anyone who needs to identify it. Nothing
+in this repository is asking you to buy it.
 
 Mint: [`G2Lf9xyWdzFH9hBeh3R5ttobNj7Qp3beVUJCtje8pump`](https://explorer.solana.com/address/G2Lf9xyWdzFH9hBeh3R5ttobNj7Qp3beVUJCtje8pump)
-
-Pump.fun: [pump.fun/coin/G2Lf9xyWdzFH9hBeh3R5ttobNj7Qp3beVUJCtje8pump](https://pump.fun/coin/G2Lf9xyWdzFH9hBeh3R5ttobNj7Qp3beVUJCtje8pump)
 
 Until this mint is posted by [@gr56__](https://x.com/gr56__) and
 [@gr56goro](https://t.me/gr56goro), any other token using this name or artwork
 is unaffiliated.
 
-## Launch facts
+## Launch facts (historical)
 
 - Solana, Pump.fun standard bonding curve. Mayhem off. Cash Back off.
 - No presale, free creator allocation, airdrop reserve, or invented utility.
